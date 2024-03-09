@@ -1,0 +1,9 @@
+{
+	"name": "overview-adf",
+	"location": "southindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "72172614-0aeb-4845-98cd-9cd0a2c2f2fb",
+		"tenantId": "51131710-8d06-49ed-921e-47c51eb715b9"
+	}
+}
